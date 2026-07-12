@@ -1,5 +1,27 @@
 
 
+<div align="center">
+
+## 🌐 Portfolio
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=435&lines=guest%40dev%3A~%24+open+portfolio;Redirecting+to+abc.xyz...)
+
+```bash
+guest@dev:~$ whoami
+> Full Stack Developer
+guest@dev:~$ open portfolio
+> Redirecting to abc.xyz ...
+> Connection established ✔
+```
+
+[![Portfolio](https://img.shields.io/badge/%3E_visit--portfolio-00FF00?style=for-the-badge&logo=gnometerminal&logoColor=00FF00&labelColor=0D1117)](https://abc.xyz)
+
+</div>
+
+
+
+
+
 ## ◈ GitHub Stats
 
 <div align="center">
