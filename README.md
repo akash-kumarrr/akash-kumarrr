@@ -1,10 +1,46 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akash;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=akash-kumarrr&color=6d28d9&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## ◈ About Me
+
+```bash
+guest@dev:~$ whoami
+> Akash Kumar
+> Full Stack Developer
+> Focused on building clean, scalable web apps
+```
+
+<br/>
+
+## ◈ Tech Stack
 
 <div align="center">
 
-## 🌐 Portfolio
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-6D28D9?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6D28D9?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=435&lines=guest%40dev%3A~%24+open+portfolio;Redirecting+to+abc.xyz...)
+</div>
+
+<br/>
+
+## ◈ Portfolio
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&background=0D1117&center=true&vCenter=true&width=435&lines=guest%40dev%3A~%24+open+portfolio;Redirecting+to+abc.xyz..." alt="Typing SVG" />
 
 ```bash
 guest@dev:~$ whoami
@@ -14,13 +50,11 @@ guest@dev:~$ open portfolio
 > Connection established ✔
 ```
 
-[![Portfolio](https://img.shields.io/badge/%3E_visit--portfolio-00FF00?style=for-the-badge&logo=gnometerminal&logoColor=00FF00&labelColor=0D1117)](https://abc.xyz)
+[![Portfolio](https://img.shields.io/badge/%3E_visit--portfolio-6D28D9?style=for-the-badge&logoColor=white&labelColor=0D1117)](https://abc.xyz)
 
 </div>
 
-
-
-
+<br/>
 
 ## ◈ GitHub Stats
 
@@ -43,4 +77,15 @@ guest@dev:~$ open portfolio
 
 </div>
 
+<br/>
 
+## ◈ Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=About.me&logoColor=white)](https://abc.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-6D28D9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
