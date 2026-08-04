@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Software Developer | Backend & Systems Enthusiast</h3>
 
 <p align="center">
   <a href="https://akash-kumarrr.vercel.app/" target="_blank">
