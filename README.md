@@ -48,34 +48,28 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://ghstats.dev/api/card?username=akash-kumarrr&theme=tokyonight" alt="Akash's GitHub Stats"/>
-  <img height="165" src="https://ghstats.dev/api/langs?username=akash-kumarrr&theme=tokyonight&layout=bar" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akash-kumarrr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/akash-kumarrr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://akash-kumarrr.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash-kumarrr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img src="https://ghstats.dev/api/card?username=akash-kumarrr&theme=tokyonight" width="49%"/>
+<img src="https://ghstats.dev/api/langs?username=akash-kumarrr&theme=tokyonight&layout=bar" width="49%"/>
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
+<br/>
+## 🔗 Connect
+ 
+<div align="center">
+<a href="https://github.com/akash-kumarrr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://akash-kumarrr.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<br/><br/>
+ 
+<img src="https://komarev.com/ghpvc/?username=akash-kumarrr&label=Profile%20Views&color=0e75b6&style=flat"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+ 
