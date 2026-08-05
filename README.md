@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Akash 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Backend+Developer;Systems+Programming+Enthusiast;Rust+%7C+C%2B%2B+%7C+Python+Explorer" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://akash-kumarrr.vercel.app/" target="_blank">
@@ -13,9 +10,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash-kumarrr&label=Profile%20Views&color=2C5364&style=for-the-badge"/>
-</p>
+
 
 <br/>
 
