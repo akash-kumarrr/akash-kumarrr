@@ -29,16 +29,20 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=akash-kumarrr&theme=tokyonight&hide_border=true" width="70%"/>
 
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash-kumarrr&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
