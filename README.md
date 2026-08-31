@@ -36,9 +36,9 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 </div>
 
 <br/>
-
-*(Detailed commit/streak/trophy cards depend on shared free stat generators that are currently rate-limited by GitHub across the board — see note below.)*
-
+<div align="center">
+<img src="https://ghstats.dev/api/langs?username=akash-kumarrr&theme=tokyonight&layout=pie" width="60%"/>
+</div>
 <br/>
 
 <div align="center">
