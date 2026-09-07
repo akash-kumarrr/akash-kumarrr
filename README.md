@@ -24,21 +24,15 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="./profile/stats.svg" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./profile/top-langs.svg" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-kumarrr&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="./profile/streak-stats.svg"/>
 </div>
 
 <br/>
