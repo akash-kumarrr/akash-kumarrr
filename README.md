@@ -24,29 +24,21 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 ### GitHub Stats
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/akash-kumarrr?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakash-kumarrr&label=Public%20Repos&query=%24.public_repos&color=0e75b6&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" />
+  <img src="https://streak-stats.demolab.com?user=akash-kumarrr&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-kumarrr&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <br/>
