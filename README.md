@@ -47,4 +47,42 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 
 </div>
 
+<div align="center">
+
+  <!-- Overall GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's GitHub Stats" height="180" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- Contribution Streak -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kumarrr&theme=tokyonight&hide_border=true" alt="Akash's GitHub Streak" />
+  </a>
+
+</div>
+
+<br />
+
+### 📈 Activity Graph
+
+<div align="center">
+
+  <!-- 31-Day Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night" alt="Akash's Activity Graph" width="100%" />
+  </a>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
