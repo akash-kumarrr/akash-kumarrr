@@ -1,10 +1,8 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Akash&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%C2%B7%20Systems%20Programmer&descAlignY=62&descSize=17" width="100%"/>
 
 <a href="https://akash-kumarrr.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/akash-kumarrr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
 </div>
 
 <br/>
@@ -18,9 +16,7 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 ### Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,rust,c,flask,fastapi,qt,redis,supabase,vercel,render&theme=dark" />
-
 </div>
 
 <br/>
@@ -28,58 +24,35 @@ I build backend systems and developer tools — mostly in Python and Rust, with 
 ### GitHub Stats
 
 <div align="center">
-
 <img src="https://img.shields.io/github/followers/akash-kumarrr?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakash-kumarrr&label=Public%20Repos&query=%24.public_repos&color=0e75b6&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakash-kumarrr&label=Followers&query=%24.followers&color=0e75b6&style=for-the-badge&logo=github&logoColor=white"/>
-
 </div>
 
 <br/>
+
 <div align="center">
-<img src="https://ghstats.dev/api/langs?username=akash-kumarrr&theme=tokyonight&layout=pie" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" />
 </div>
+
 <br/>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akash-kumarrr&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div><div align="center">
-
-  <!-- Overall GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=akash-kumarrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Akash's GitHub Stats" height="180" />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kumarrr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="180" />
-  </a>
-
+  <img src="https://streak-stats.demolab.com?user=akash-kumarrr&theme=tokyonight&hide_border=true" />
 </div>
 
-<br />
-
-<div align="center">
-
-  <!-- Contribution Streak -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=akash-kumarrr&theme=tokyonight&hide_border=true" alt="Akash's GitHub Streak" />
-  </a>
-
-</div>
-
-<br />
+<br/>
 
 ### 📈 Activity Graph
 
 <div align="center">
-
-  <!-- Alternative Reliable Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night" alt="Akash's Activity Graph" width="100%" />
-  </a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-kumarrr&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash-kumarrr&label=Profile%20Views&color=0e75b6&style=flat"/>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
